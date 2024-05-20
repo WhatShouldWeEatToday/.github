@@ -1,12 +1,8 @@
-## Hi there 👋
+# 오늘 뭐 먹지?
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+![](https://velog.velcdn.com/images/ljh3478/post/f683fa31-adfd-4660-b1b0-5c44c166c643/image.png)
+![](https://velog.velcdn.com/images/ljh3478/post/e34114aa-2865-485c-9443-29e0ad200d45/image.png)
+![](https://velog.velcdn.com/images/ljh3478/post/29e554a6-4bb6-42d1-8f8e-5887b30a5af4/image.png)
+![](https://velog.velcdn.com/images/ljh3478/post/3e4808cf-fe4a-4f07-a9d8-58784931d66a/image.png)
+![](https://velog.velcdn.com/images/ljh3478/post/2d608f08-e7c9-4bf9-86a6-a741f4d538c6/image.png)
+![](https://velog.velcdn.com/images/ljh3478/post/79712bfc-4fb6-4fae-8bf7-9ecad2443434/image.png)
