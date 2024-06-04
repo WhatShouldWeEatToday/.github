@@ -1,6 +1,6 @@
 # 오늘 뭐 먹지?
 
-![](https://velog.velcdn.com/images/ljh3478/post/28bdf468-0e36-41d1-a835-ff64ddd66a9e/image.png)
+![](https://velog.velcdn.com/images/ljh3478/post/7a03ebe0-659c-4383-b93f-2ca909c43328/image.png)
 ![](https://velog.velcdn.com/images/ljh3478/post/f683fa31-adfd-4660-b1b0-5c44c166c643/image.png)
 ![](https://velog.velcdn.com/images/ljh3478/post/f683fa31-adfd-4660-b1b0-5c44c166c643/image.png)
 ![](https://velog.velcdn.com/images/ljh3478/post/e34114aa-2865-485c-9443-29e0ad200d45/image.png)
